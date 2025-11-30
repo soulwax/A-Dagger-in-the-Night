@@ -5,6 +5,7 @@ dart_canvas_game
 ├───pubspec.lock
 ├───pubspec.yaml
 ├───README.md
+├───tree.txt
 ├───.dart_tool/
 │   ├───package_config.json
 │   ├───package_graph.json
