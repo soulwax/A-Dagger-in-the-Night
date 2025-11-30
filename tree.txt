@@ -1,0 +1,18 @@
+dart_canvas_game
+├───.gitignore
+├───analysis_options.yaml
+├───CHANGELOG.md
+├───pubspec.lock
+├───pubspec.yaml
+├───README.md
+├───.dart_tool/
+│   ├───package_config.json
+│   ├───package_graph.json
+│   └───pub/
+│       └───bin/
+│           └───build_runner/
+│               └───build_runner.dart-3.10.2.snapshot
+└───web/
+    ├───index.html
+    ├───main.dart
+    └───styles.css
